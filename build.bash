@@ -19,6 +19,13 @@ tool will be useful).
 EOEM
 fi
 
+here=$PWD
+cd ../..
+GOPATH=$PWD
+export GOBIN=$GOPATH/bin
+export PATH=$PATH:$GOBIN 
+cd $here
+
 if [[ -z $(grep GOPATH $HOME/.profile) ]
 then
 	cat >>$HOME/.profile <<EOPADDENDUM
@@ -27,8 +34,8 @@ then
 set -o vi
 export GOROOT=/usr/lib/go
 # Xeno puts works in progress in a shop directory:
-export GOPATH=$HOME/shop/go
-export GOBIN=$GOPATH/bin
+export GOPATH=$GOPATH
+export GOBIN=$GOBIN
 export PATH=$PATH:$GOBIN 
 EOPADDENDUM
 fi
