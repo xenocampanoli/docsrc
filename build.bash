@@ -26,7 +26,7 @@ export GOBIN=$GOPATH/bin
 export PATH=$PATH:$GOBIN 
 cd $here
 
-if [[ -z $(grep GOPATH $HOME/.profile) ]
+if [[ -z $(grep GOPATH $HOME/.profile) ]]
 then
 	cat >>$HOME/.profile <<EOPADDENDUM
 # Modify the following to your environment before running:

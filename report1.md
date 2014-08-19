@@ -1,7 +1,7 @@
 
 # Source Directory (level 1):
 
-`/home/xeno/shop/go/src/docsrc`
+`/home/xeno/shop/src/docsrc`
 
 # Directory Description
 
@@ -80,7 +80,7 @@ documents.
 
 # Go source file docsrc.go
 
-Full level 1 filespec:  /home/xeno/shop/go/src/docsrc/docsrc.go)
+Full level 1 filespec:  /home/xeno/shop/src/docsrc/docsrc.go)
 
 ```
 1 // docsrc - Program to generate source tree documentation.
@@ -237,19 +237,1039 @@ Full level 1 filespec:  /home/xeno/shop/go/src/docsrc/docsrc.go)
 ---snip---
 ```
 
-End of level 1 source files in /home/xeno/shop/go/src/docsrc
+End of level 1 source files in /home/xeno/shop/src/docsrc
 
 
 ## Source Directory (level 2):
 
-`/home/xeno/shop/go/src/docsrc/reports`
+`/home/xeno/shop/src/docsrc/.git`
+
+## Directory Description
+
+
+End of level 2 source files in /home/xeno/shop/src/docsrc/.git
+
+
+### Source Directory (level 3):
+
+`/home/xeno/shop/src/docsrc/.git/branches`
+
+### Directory Description
+
+
+End of level 3 source files in /home/xeno/shop/src/docsrc/.git/branches
+
+
+### Directory Notes for:
+`/home/xeno/shop/src/docsrc/.git/branches`
+
+
+### Ending for /home/xeno/shop/src/docsrc/.git/branches, Level 3
+
+
+### Source Directory (level 3):
+
+`/home/xeno/shop/src/docsrc/.git/hooks`
+
+### Directory Description
+
+
+End of level 3 source files in /home/xeno/shop/src/docsrc/.git/hooks
+
+
+### Directory Notes for:
+`/home/xeno/shop/src/docsrc/.git/hooks`
+
+
+### Ending for /home/xeno/shop/src/docsrc/.git/hooks, Level 3
+
+
+### Source Directory (level 3):
+
+`/home/xeno/shop/src/docsrc/.git/info`
+
+### Directory Description
+
+
+End of level 3 source files in /home/xeno/shop/src/docsrc/.git/info
+
+
+### Directory Notes for:
+`/home/xeno/shop/src/docsrc/.git/info`
+
+
+### Ending for /home/xeno/shop/src/docsrc/.git/info, Level 3
+
+
+### Source Directory (level 3):
+
+`/home/xeno/shop/src/docsrc/.git/logs`
+
+### Directory Description
+
+
+End of level 3 source files in /home/xeno/shop/src/docsrc/.git/logs
+
+
+#### Source Directory (level 4):
+
+`/home/xeno/shop/src/docsrc/.git/logs/refs`
+
+#### Directory Description
+
+
+End of level 4 source files in /home/xeno/shop/src/docsrc/.git/logs/refs
+
+
+##### Source Directory (level 5):
+
+`/home/xeno/shop/src/docsrc/.git/logs/refs/heads`
+
+##### Directory Description
+
+
+End of level 5 source files in /home/xeno/shop/src/docsrc/.git/logs/refs/heads
+
+
+##### Directory Notes for:
+`/home/xeno/shop/src/docsrc/.git/logs/refs/heads`
+
+
+##### Ending for /home/xeno/shop/src/docsrc/.git/logs/refs/heads, Level 5
+
+
+##### Source Directory (level 5):
+
+`/home/xeno/shop/src/docsrc/.git/logs/refs/remotes`
+
+##### Directory Description
+
+
+End of level 5 source files in /home/xeno/shop/src/docsrc/.git/logs/refs/remotes
+
+
+###### Source Directory (level 6):
+
+`/home/xeno/shop/src/docsrc/.git/logs/refs/remotes/origin`
+
+###### Directory Description
+
+
+End of level 6 source files in /home/xeno/shop/src/docsrc/.git/logs/refs/remotes/origin
+
+
+###### Directory Notes for:
+`/home/xeno/shop/src/docsrc/.git/logs/refs/remotes/origin`
+
+
+###### Ending for /home/xeno/shop/src/docsrc/.git/logs/refs/remotes/origin, Level 6
+
+
+##### Directory Notes for:
+`/home/xeno/shop/src/docsrc/.git/logs/refs/remotes`
+
+
+##### Ending for /home/xeno/shop/src/docsrc/.git/logs/refs/remotes, Level 5
+
+
+#### Directory Notes for:
+`/home/xeno/shop/src/docsrc/.git/logs/refs`
+
+
+#### Ending for /home/xeno/shop/src/docsrc/.git/logs/refs, Level 4
+
+
+### Directory Notes for:
+`/home/xeno/shop/src/docsrc/.git/logs`
+
+
+### Ending for /home/xeno/shop/src/docsrc/.git/logs, Level 3
+
+
+### Source Directory (level 3):
+
+`/home/xeno/shop/src/docsrc/.git/objects`
+
+### Directory Description
+
+
+End of level 3 source files in /home/xeno/shop/src/docsrc/.git/objects
+
+
+#### Source Directory (level 4):
+
+`/home/xeno/shop/src/docsrc/.git/objects/01`
+
+#### Directory Description
+
+
+End of level 4 source files in /home/xeno/shop/src/docsrc/.git/objects/01
+
+
+#### Directory Notes for:
+`/home/xeno/shop/src/docsrc/.git/objects/01`
+
+
+#### Ending for /home/xeno/shop/src/docsrc/.git/objects/01, Level 4
+
+
+#### Source Directory (level 4):
+
+`/home/xeno/shop/src/docsrc/.git/objects/05`
+
+#### Directory Description
+
+
+End of level 4 source files in /home/xeno/shop/src/docsrc/.git/objects/05
+
+
+#### Directory Notes for:
+`/home/xeno/shop/src/docsrc/.git/objects/05`
+
+
+#### Ending for /home/xeno/shop/src/docsrc/.git/objects/05, Level 4
+
+
+#### Source Directory (level 4):
+
+`/home/xeno/shop/src/docsrc/.git/objects/15`
+
+#### Directory Description
+
+
+End of level 4 source files in /home/xeno/shop/src/docsrc/.git/objects/15
+
+
+#### Directory Notes for:
+`/home/xeno/shop/src/docsrc/.git/objects/15`
+
+
+#### Ending for /home/xeno/shop/src/docsrc/.git/objects/15, Level 4
+
+
+#### Source Directory (level 4):
+
+`/home/xeno/shop/src/docsrc/.git/objects/17`
+
+#### Directory Description
+
+
+End of level 4 source files in /home/xeno/shop/src/docsrc/.git/objects/17
+
+
+#### Directory Notes for:
+`/home/xeno/shop/src/docsrc/.git/objects/17`
+
+
+#### Ending for /home/xeno/shop/src/docsrc/.git/objects/17, Level 4
+
+
+#### Source Directory (level 4):
+
+`/home/xeno/shop/src/docsrc/.git/objects/1c`
+
+#### Directory Description
+
+
+End of level 4 source files in /home/xeno/shop/src/docsrc/.git/objects/1c
+
+
+#### Directory Notes for:
+`/home/xeno/shop/src/docsrc/.git/objects/1c`
+
+
+#### Ending for /home/xeno/shop/src/docsrc/.git/objects/1c, Level 4
+
+
+#### Source Directory (level 4):
+
+`/home/xeno/shop/src/docsrc/.git/objects/1d`
+
+#### Directory Description
+
+
+End of level 4 source files in /home/xeno/shop/src/docsrc/.git/objects/1d
+
+
+#### Directory Notes for:
+`/home/xeno/shop/src/docsrc/.git/objects/1d`
+
+
+#### Ending for /home/xeno/shop/src/docsrc/.git/objects/1d, Level 4
+
+
+#### Source Directory (level 4):
+
+`/home/xeno/shop/src/docsrc/.git/objects/23`
+
+#### Directory Description
+
+
+End of level 4 source files in /home/xeno/shop/src/docsrc/.git/objects/23
+
+
+#### Directory Notes for:
+`/home/xeno/shop/src/docsrc/.git/objects/23`
+
+
+#### Ending for /home/xeno/shop/src/docsrc/.git/objects/23, Level 4
+
+
+#### Source Directory (level 4):
+
+`/home/xeno/shop/src/docsrc/.git/objects/30`
+
+#### Directory Description
+
+
+End of level 4 source files in /home/xeno/shop/src/docsrc/.git/objects/30
+
+
+#### Directory Notes for:
+`/home/xeno/shop/src/docsrc/.git/objects/30`
+
+
+#### Ending for /home/xeno/shop/src/docsrc/.git/objects/30, Level 4
+
+
+#### Source Directory (level 4):
+
+`/home/xeno/shop/src/docsrc/.git/objects/38`
+
+#### Directory Description
+
+
+End of level 4 source files in /home/xeno/shop/src/docsrc/.git/objects/38
+
+
+#### Directory Notes for:
+`/home/xeno/shop/src/docsrc/.git/objects/38`
+
+
+#### Ending for /home/xeno/shop/src/docsrc/.git/objects/38, Level 4
+
+
+#### Source Directory (level 4):
+
+`/home/xeno/shop/src/docsrc/.git/objects/49`
+
+#### Directory Description
+
+
+End of level 4 source files in /home/xeno/shop/src/docsrc/.git/objects/49
+
+
+#### Directory Notes for:
+`/home/xeno/shop/src/docsrc/.git/objects/49`
+
+
+#### Ending for /home/xeno/shop/src/docsrc/.git/objects/49, Level 4
+
+
+#### Source Directory (level 4):
+
+`/home/xeno/shop/src/docsrc/.git/objects/4c`
+
+#### Directory Description
+
+
+End of level 4 source files in /home/xeno/shop/src/docsrc/.git/objects/4c
+
+
+#### Directory Notes for:
+`/home/xeno/shop/src/docsrc/.git/objects/4c`
+
+
+#### Ending for /home/xeno/shop/src/docsrc/.git/objects/4c, Level 4
+
+
+#### Source Directory (level 4):
+
+`/home/xeno/shop/src/docsrc/.git/objects/51`
+
+#### Directory Description
+
+
+End of level 4 source files in /home/xeno/shop/src/docsrc/.git/objects/51
+
+
+#### Directory Notes for:
+`/home/xeno/shop/src/docsrc/.git/objects/51`
+
+
+#### Ending for /home/xeno/shop/src/docsrc/.git/objects/51, Level 4
+
+
+#### Source Directory (level 4):
+
+`/home/xeno/shop/src/docsrc/.git/objects/53`
+
+#### Directory Description
+
+
+End of level 4 source files in /home/xeno/shop/src/docsrc/.git/objects/53
+
+
+#### Directory Notes for:
+`/home/xeno/shop/src/docsrc/.git/objects/53`
+
+
+#### Ending for /home/xeno/shop/src/docsrc/.git/objects/53, Level 4
+
+
+#### Source Directory (level 4):
+
+`/home/xeno/shop/src/docsrc/.git/objects/5c`
+
+#### Directory Description
+
+
+End of level 4 source files in /home/xeno/shop/src/docsrc/.git/objects/5c
+
+
+#### Directory Notes for:
+`/home/xeno/shop/src/docsrc/.git/objects/5c`
+
+
+#### Ending for /home/xeno/shop/src/docsrc/.git/objects/5c, Level 4
+
+
+#### Source Directory (level 4):
+
+`/home/xeno/shop/src/docsrc/.git/objects/5d`
+
+#### Directory Description
+
+
+End of level 4 source files in /home/xeno/shop/src/docsrc/.git/objects/5d
+
+
+#### Directory Notes for:
+`/home/xeno/shop/src/docsrc/.git/objects/5d`
+
+
+#### Ending for /home/xeno/shop/src/docsrc/.git/objects/5d, Level 4
+
+
+#### Source Directory (level 4):
+
+`/home/xeno/shop/src/docsrc/.git/objects/60`
+
+#### Directory Description
+
+
+End of level 4 source files in /home/xeno/shop/src/docsrc/.git/objects/60
+
+
+#### Directory Notes for:
+`/home/xeno/shop/src/docsrc/.git/objects/60`
+
+
+#### Ending for /home/xeno/shop/src/docsrc/.git/objects/60, Level 4
+
+
+#### Source Directory (level 4):
+
+`/home/xeno/shop/src/docsrc/.git/objects/61`
+
+#### Directory Description
+
+
+End of level 4 source files in /home/xeno/shop/src/docsrc/.git/objects/61
+
+
+#### Directory Notes for:
+`/home/xeno/shop/src/docsrc/.git/objects/61`
+
+
+#### Ending for /home/xeno/shop/src/docsrc/.git/objects/61, Level 4
+
+
+#### Source Directory (level 4):
+
+`/home/xeno/shop/src/docsrc/.git/objects/6c`
+
+#### Directory Description
+
+
+End of level 4 source files in /home/xeno/shop/src/docsrc/.git/objects/6c
+
+
+#### Directory Notes for:
+`/home/xeno/shop/src/docsrc/.git/objects/6c`
+
+
+#### Ending for /home/xeno/shop/src/docsrc/.git/objects/6c, Level 4
+
+
+#### Source Directory (level 4):
+
+`/home/xeno/shop/src/docsrc/.git/objects/7d`
+
+#### Directory Description
+
+
+End of level 4 source files in /home/xeno/shop/src/docsrc/.git/objects/7d
+
+
+#### Directory Notes for:
+`/home/xeno/shop/src/docsrc/.git/objects/7d`
+
+
+#### Ending for /home/xeno/shop/src/docsrc/.git/objects/7d, Level 4
+
+
+#### Source Directory (level 4):
+
+`/home/xeno/shop/src/docsrc/.git/objects/81`
+
+#### Directory Description
+
+
+End of level 4 source files in /home/xeno/shop/src/docsrc/.git/objects/81
+
+
+#### Directory Notes for:
+`/home/xeno/shop/src/docsrc/.git/objects/81`
+
+
+#### Ending for /home/xeno/shop/src/docsrc/.git/objects/81, Level 4
+
+
+#### Source Directory (level 4):
+
+`/home/xeno/shop/src/docsrc/.git/objects/87`
+
+#### Directory Description
+
+
+End of level 4 source files in /home/xeno/shop/src/docsrc/.git/objects/87
+
+
+#### Directory Notes for:
+`/home/xeno/shop/src/docsrc/.git/objects/87`
+
+
+#### Ending for /home/xeno/shop/src/docsrc/.git/objects/87, Level 4
+
+
+#### Source Directory (level 4):
+
+`/home/xeno/shop/src/docsrc/.git/objects/88`
+
+#### Directory Description
+
+
+End of level 4 source files in /home/xeno/shop/src/docsrc/.git/objects/88
+
+
+#### Directory Notes for:
+`/home/xeno/shop/src/docsrc/.git/objects/88`
+
+
+#### Ending for /home/xeno/shop/src/docsrc/.git/objects/88, Level 4
+
+
+#### Source Directory (level 4):
+
+`/home/xeno/shop/src/docsrc/.git/objects/90`
+
+#### Directory Description
+
+
+End of level 4 source files in /home/xeno/shop/src/docsrc/.git/objects/90
+
+
+#### Directory Notes for:
+`/home/xeno/shop/src/docsrc/.git/objects/90`
+
+
+#### Ending for /home/xeno/shop/src/docsrc/.git/objects/90, Level 4
+
+
+#### Source Directory (level 4):
+
+`/home/xeno/shop/src/docsrc/.git/objects/93`
+
+#### Directory Description
+
+
+End of level 4 source files in /home/xeno/shop/src/docsrc/.git/objects/93
+
+
+#### Directory Notes for:
+`/home/xeno/shop/src/docsrc/.git/objects/93`
+
+
+#### Ending for /home/xeno/shop/src/docsrc/.git/objects/93, Level 4
+
+
+#### Source Directory (level 4):
+
+`/home/xeno/shop/src/docsrc/.git/objects/94`
+
+#### Directory Description
+
+
+End of level 4 source files in /home/xeno/shop/src/docsrc/.git/objects/94
+
+
+#### Directory Notes for:
+`/home/xeno/shop/src/docsrc/.git/objects/94`
+
+
+#### Ending for /home/xeno/shop/src/docsrc/.git/objects/94, Level 4
+
+
+#### Source Directory (level 4):
+
+`/home/xeno/shop/src/docsrc/.git/objects/96`
+
+#### Directory Description
+
+
+End of level 4 source files in /home/xeno/shop/src/docsrc/.git/objects/96
+
+
+#### Directory Notes for:
+`/home/xeno/shop/src/docsrc/.git/objects/96`
+
+
+#### Ending for /home/xeno/shop/src/docsrc/.git/objects/96, Level 4
+
+
+#### Source Directory (level 4):
+
+`/home/xeno/shop/src/docsrc/.git/objects/99`
+
+#### Directory Description
+
+
+End of level 4 source files in /home/xeno/shop/src/docsrc/.git/objects/99
+
+
+#### Directory Notes for:
+`/home/xeno/shop/src/docsrc/.git/objects/99`
+
+
+#### Ending for /home/xeno/shop/src/docsrc/.git/objects/99, Level 4
+
+
+#### Source Directory (level 4):
+
+`/home/xeno/shop/src/docsrc/.git/objects/a5`
+
+#### Directory Description
+
+
+End of level 4 source files in /home/xeno/shop/src/docsrc/.git/objects/a5
+
+
+#### Directory Notes for:
+`/home/xeno/shop/src/docsrc/.git/objects/a5`
+
+
+#### Ending for /home/xeno/shop/src/docsrc/.git/objects/a5, Level 4
+
+
+#### Source Directory (level 4):
+
+`/home/xeno/shop/src/docsrc/.git/objects/a8`
+
+#### Directory Description
+
+
+End of level 4 source files in /home/xeno/shop/src/docsrc/.git/objects/a8
+
+
+#### Directory Notes for:
+`/home/xeno/shop/src/docsrc/.git/objects/a8`
+
+
+#### Ending for /home/xeno/shop/src/docsrc/.git/objects/a8, Level 4
+
+
+#### Source Directory (level 4):
+
+`/home/xeno/shop/src/docsrc/.git/objects/ad`
+
+#### Directory Description
+
+
+End of level 4 source files in /home/xeno/shop/src/docsrc/.git/objects/ad
+
+
+#### Directory Notes for:
+`/home/xeno/shop/src/docsrc/.git/objects/ad`
+
+
+#### Ending for /home/xeno/shop/src/docsrc/.git/objects/ad, Level 4
+
+
+#### Source Directory (level 4):
+
+`/home/xeno/shop/src/docsrc/.git/objects/b3`
+
+#### Directory Description
+
+
+End of level 4 source files in /home/xeno/shop/src/docsrc/.git/objects/b3
+
+
+#### Directory Notes for:
+`/home/xeno/shop/src/docsrc/.git/objects/b3`
+
+
+#### Ending for /home/xeno/shop/src/docsrc/.git/objects/b3, Level 4
+
+
+#### Source Directory (level 4):
+
+`/home/xeno/shop/src/docsrc/.git/objects/b5`
+
+#### Directory Description
+
+
+End of level 4 source files in /home/xeno/shop/src/docsrc/.git/objects/b5
+
+
+#### Directory Notes for:
+`/home/xeno/shop/src/docsrc/.git/objects/b5`
+
+
+#### Ending for /home/xeno/shop/src/docsrc/.git/objects/b5, Level 4
+
+
+#### Source Directory (level 4):
+
+`/home/xeno/shop/src/docsrc/.git/objects/b9`
+
+#### Directory Description
+
+
+End of level 4 source files in /home/xeno/shop/src/docsrc/.git/objects/b9
+
+
+#### Directory Notes for:
+`/home/xeno/shop/src/docsrc/.git/objects/b9`
+
+
+#### Ending for /home/xeno/shop/src/docsrc/.git/objects/b9, Level 4
+
+
+#### Source Directory (level 4):
+
+`/home/xeno/shop/src/docsrc/.git/objects/be`
+
+#### Directory Description
+
+
+End of level 4 source files in /home/xeno/shop/src/docsrc/.git/objects/be
+
+
+#### Directory Notes for:
+`/home/xeno/shop/src/docsrc/.git/objects/be`
+
+
+#### Ending for /home/xeno/shop/src/docsrc/.git/objects/be, Level 4
+
+
+#### Source Directory (level 4):
+
+`/home/xeno/shop/src/docsrc/.git/objects/c3`
+
+#### Directory Description
+
+
+End of level 4 source files in /home/xeno/shop/src/docsrc/.git/objects/c3
+
+
+#### Directory Notes for:
+`/home/xeno/shop/src/docsrc/.git/objects/c3`
+
+
+#### Ending for /home/xeno/shop/src/docsrc/.git/objects/c3, Level 4
+
+
+#### Source Directory (level 4):
+
+`/home/xeno/shop/src/docsrc/.git/objects/c9`
+
+#### Directory Description
+
+
+End of level 4 source files in /home/xeno/shop/src/docsrc/.git/objects/c9
+
+
+#### Directory Notes for:
+`/home/xeno/shop/src/docsrc/.git/objects/c9`
+
+
+#### Ending for /home/xeno/shop/src/docsrc/.git/objects/c9, Level 4
+
+
+#### Source Directory (level 4):
+
+`/home/xeno/shop/src/docsrc/.git/objects/d1`
+
+#### Directory Description
+
+
+End of level 4 source files in /home/xeno/shop/src/docsrc/.git/objects/d1
+
+
+#### Directory Notes for:
+`/home/xeno/shop/src/docsrc/.git/objects/d1`
+
+
+#### Ending for /home/xeno/shop/src/docsrc/.git/objects/d1, Level 4
+
+
+#### Source Directory (level 4):
+
+`/home/xeno/shop/src/docsrc/.git/objects/d5`
+
+#### Directory Description
+
+
+End of level 4 source files in /home/xeno/shop/src/docsrc/.git/objects/d5
+
+
+#### Directory Notes for:
+`/home/xeno/shop/src/docsrc/.git/objects/d5`
+
+
+#### Ending for /home/xeno/shop/src/docsrc/.git/objects/d5, Level 4
+
+
+#### Source Directory (level 4):
+
+`/home/xeno/shop/src/docsrc/.git/objects/d6`
+
+#### Directory Description
+
+
+End of level 4 source files in /home/xeno/shop/src/docsrc/.git/objects/d6
+
+
+#### Directory Notes for:
+`/home/xeno/shop/src/docsrc/.git/objects/d6`
+
+
+#### Ending for /home/xeno/shop/src/docsrc/.git/objects/d6, Level 4
+
+
+#### Source Directory (level 4):
+
+`/home/xeno/shop/src/docsrc/.git/objects/de`
+
+#### Directory Description
+
+
+End of level 4 source files in /home/xeno/shop/src/docsrc/.git/objects/de
+
+
+#### Directory Notes for:
+`/home/xeno/shop/src/docsrc/.git/objects/de`
+
+
+#### Ending for /home/xeno/shop/src/docsrc/.git/objects/de, Level 4
+
+
+#### Source Directory (level 4):
+
+`/home/xeno/shop/src/docsrc/.git/objects/e1`
+
+#### Directory Description
+
+
+End of level 4 source files in /home/xeno/shop/src/docsrc/.git/objects/e1
+
+
+#### Directory Notes for:
+`/home/xeno/shop/src/docsrc/.git/objects/e1`
+
+
+#### Ending for /home/xeno/shop/src/docsrc/.git/objects/e1, Level 4
+
+
+#### Source Directory (level 4):
+
+`/home/xeno/shop/src/docsrc/.git/objects/f2`
+
+#### Directory Description
+
+
+End of level 4 source files in /home/xeno/shop/src/docsrc/.git/objects/f2
+
+
+#### Directory Notes for:
+`/home/xeno/shop/src/docsrc/.git/objects/f2`
+
+
+#### Ending for /home/xeno/shop/src/docsrc/.git/objects/f2, Level 4
+
+
+#### Source Directory (level 4):
+
+`/home/xeno/shop/src/docsrc/.git/objects/fd`
+
+#### Directory Description
+
+
+End of level 4 source files in /home/xeno/shop/src/docsrc/.git/objects/fd
+
+
+#### Directory Notes for:
+`/home/xeno/shop/src/docsrc/.git/objects/fd`
+
+
+#### Ending for /home/xeno/shop/src/docsrc/.git/objects/fd, Level 4
+
+
+#### Source Directory (level 4):
+
+`/home/xeno/shop/src/docsrc/.git/objects/info`
+
+#### Directory Description
+
+
+End of level 4 source files in /home/xeno/shop/src/docsrc/.git/objects/info
+
+
+#### Directory Notes for:
+`/home/xeno/shop/src/docsrc/.git/objects/info`
+
+
+#### Ending for /home/xeno/shop/src/docsrc/.git/objects/info, Level 4
+
+
+#### Source Directory (level 4):
+
+`/home/xeno/shop/src/docsrc/.git/objects/pack`
+
+#### Directory Description
+
+
+End of level 4 source files in /home/xeno/shop/src/docsrc/.git/objects/pack
+
+
+#### Directory Notes for:
+`/home/xeno/shop/src/docsrc/.git/objects/pack`
+
+
+#### Ending for /home/xeno/shop/src/docsrc/.git/objects/pack, Level 4
+
+
+### Directory Notes for:
+`/home/xeno/shop/src/docsrc/.git/objects`
+
+
+### Ending for /home/xeno/shop/src/docsrc/.git/objects, Level 3
+
+
+### Source Directory (level 3):
+
+`/home/xeno/shop/src/docsrc/.git/refs`
+
+### Directory Description
+
+
+End of level 3 source files in /home/xeno/shop/src/docsrc/.git/refs
+
+
+#### Source Directory (level 4):
+
+`/home/xeno/shop/src/docsrc/.git/refs/heads`
+
+#### Directory Description
+
+
+End of level 4 source files in /home/xeno/shop/src/docsrc/.git/refs/heads
+
+
+#### Directory Notes for:
+`/home/xeno/shop/src/docsrc/.git/refs/heads`
+
+
+#### Ending for /home/xeno/shop/src/docsrc/.git/refs/heads, Level 4
+
+
+#### Source Directory (level 4):
+
+`/home/xeno/shop/src/docsrc/.git/refs/remotes`
+
+#### Directory Description
+
+
+End of level 4 source files in /home/xeno/shop/src/docsrc/.git/refs/remotes
+
+
+##### Source Directory (level 5):
+
+`/home/xeno/shop/src/docsrc/.git/refs/remotes/origin`
+
+##### Directory Description
+
+
+End of level 5 source files in /home/xeno/shop/src/docsrc/.git/refs/remotes/origin
+
+
+##### Directory Notes for:
+`/home/xeno/shop/src/docsrc/.git/refs/remotes/origin`
+
+
+##### Ending for /home/xeno/shop/src/docsrc/.git/refs/remotes/origin, Level 5
+
+
+#### Directory Notes for:
+`/home/xeno/shop/src/docsrc/.git/refs/remotes`
+
+
+#### Ending for /home/xeno/shop/src/docsrc/.git/refs/remotes, Level 4
+
+
+#### Source Directory (level 4):
+
+`/home/xeno/shop/src/docsrc/.git/refs/tags`
+
+#### Directory Description
+
+
+End of level 4 source files in /home/xeno/shop/src/docsrc/.git/refs/tags
+
+
+#### Directory Notes for:
+`/home/xeno/shop/src/docsrc/.git/refs/tags`
+
+
+#### Ending for /home/xeno/shop/src/docsrc/.git/refs/tags, Level 4
+
+
+### Directory Notes for:
+`/home/xeno/shop/src/docsrc/.git/refs`
+
+
+### Ending for /home/xeno/shop/src/docsrc/.git/refs, Level 3
+
+
+## Directory Notes for:
+`/home/xeno/shop/src/docsrc/.git`
+
+
+## Ending for /home/xeno/shop/src/docsrc/.git, Level 2
+
+
+## Source Directory (level 2):
+
+`/home/xeno/shop/src/docsrc/reports`
 
 ## Directory Description
 
 
 ## Go source file common.go
 
-Full level 2 filespec:  /home/xeno/shop/go/src/docsrc/reports/common.go)
+Full level 2 filespec:  /home/xeno/shop/src/docsrc/reports/common.go)
 
 ```
 1 //	report2.go
@@ -278,7 +1298,7 @@ Full level 2 filespec:  /home/xeno/shop/go/src/docsrc/reports/common.go)
 
 ## Go source file common_test.go
 
-Full level 2 filespec:  /home/xeno/shop/go/src/docsrc/reports/common_test.go)
+Full level 2 filespec:  /home/xeno/shop/src/docsrc/reports/common_test.go)
 
 ```
 1 package reports
@@ -338,7 +1358,7 @@ Full level 2 filespec:  /home/xeno/shop/go/src/docsrc/reports/common_test.go)
 
 ## Go source file report0.go
 
-Full level 2 filespec:  /home/xeno/shop/go/src/docsrc/reports/report0.go)
+Full level 2 filespec:  /home/xeno/shop/src/docsrc/reports/report0.go)
 
 ```
 1 //	report0.go
@@ -416,7 +1436,7 @@ Full level 2 filespec:  /home/xeno/shop/go/src/docsrc/reports/report0.go)
 
 ## Go source file report0_test.go
 
-Full level 2 filespec:  /home/xeno/shop/go/src/docsrc/reports/report0_test.go)
+Full level 2 filespec:  /home/xeno/shop/src/docsrc/reports/report0_test.go)
 
 ```
 1 package reports
@@ -473,7 +1493,7 @@ Full level 2 filespec:  /home/xeno/shop/go/src/docsrc/reports/report0_test.go)
 
 ## Go source file report1.go
 
-Full level 2 filespec:  /home/xeno/shop/go/src/docsrc/reports/report1.go)
+Full level 2 filespec:  /home/xeno/shop/src/docsrc/reports/report1.go)
 
 ```
 1 //	report1 - generate detailed markdown document for golang
@@ -565,7 +1585,7 @@ Full level 2 filespec:  /home/xeno/shop/go/src/docsrc/reports/report1.go)
 
 ## Go source file report1_test.go
 
-Full level 2 filespec:  /home/xeno/shop/go/src/docsrc/reports/report1_test.go)
+Full level 2 filespec:  /home/xeno/shop/src/docsrc/reports/report1_test.go)
 
 ```
 1 package reports
@@ -640,36 +1660,36 @@ Full level 2 filespec:  /home/xeno/shop/go/src/docsrc/reports/report1_test.go)
 ---snip---
 ```
 
-End of level 2 source files in /home/xeno/shop/go/src/docsrc/reports
+End of level 2 source files in /home/xeno/shop/src/docsrc/reports
 
 
 ## Directory Notes for:
-`/home/xeno/shop/go/src/docsrc/reports`
+`/home/xeno/shop/src/docsrc/reports`
 
 
-## Ending for /home/xeno/shop/go/src/docsrc/reports, Level 2
+## Ending for /home/xeno/shop/src/docsrc/reports, Level 2
 
 
 ## Source Directory (level 2):
 
-`/home/xeno/shop/go/src/docsrc/tmp`
+`/home/xeno/shop/src/docsrc/tmp`
 
 ## Directory Description
 
 
-End of level 2 source files in /home/xeno/shop/go/src/docsrc/tmp
+End of level 2 source files in /home/xeno/shop/src/docsrc/tmp
 
 
 ## Directory Notes for:
-`/home/xeno/shop/go/src/docsrc/tmp`
+`/home/xeno/shop/src/docsrc/tmp`
 
 
-## Ending for /home/xeno/shop/go/src/docsrc/tmp, Level 2
+## Ending for /home/xeno/shop/src/docsrc/tmp, Level 2
 
 
 ## Source Directory (level 2):
 
-`/home/xeno/shop/go/src/docsrc/treeseers`
+`/home/xeno/shop/src/docsrc/treeseers`
 
 ## Directory Description
 
@@ -725,7 +1745,7 @@ tests should be merged into one.
 
 ## Go source file common.go
 
-Full level 2 filespec:  /home/xeno/shop/go/src/docsrc/treeseers/common.go)
+Full level 2 filespec:  /home/xeno/shop/src/docsrc/treeseers/common.go)
 
 ```
 1 //  Common routines for use by members and clients of treeseers package.
@@ -932,7 +1952,7 @@ Full level 2 filespec:  /home/xeno/shop/go/src/docsrc/treeseers/common.go)
 
 ## Go source file common_test.go
 
-Full level 2 filespec:  /home/xeno/shop/go/src/docsrc/treeseers/common_test.go)
+Full level 2 filespec:  /home/xeno/shop/src/docsrc/treeseers/common_test.go)
 
 ```
 1 // Test functions for use across treeseer package, or by other tests.
@@ -1171,7 +2191,7 @@ Full level 2 filespec:  /home/xeno/shop/go/src/docsrc/treeseers/common_test.go)
 
 ## Go source file concurrent.go
 
-Full level 2 filespec:  /home/xeno/shop/go/src/docsrc/treeseers/concurrent.go)
+Full level 2 filespec:  /home/xeno/shop/src/docsrc/treeseers/concurrent.go)
 
 ```
 1 package treeseers
@@ -1233,7 +2253,7 @@ Full level 2 filespec:  /home/xeno/shop/go/src/docsrc/treeseers/concurrent.go)
 
 ## Go source file concurrent_test.go
 
-Full level 2 filespec:  /home/xeno/shop/go/src/docsrc/treeseers/concurrent_test.go)
+Full level 2 filespec:  /home/xeno/shop/src/docsrc/treeseers/concurrent_test.go)
 
 ```
 1 // Test concurrent version of LoadDirObject Method
@@ -1269,7 +2289,7 @@ Full level 2 filespec:  /home/xeno/shop/go/src/docsrc/treeseers/concurrent_test.
 
 ## Go source file sequential.go
 
-Full level 2 filespec:  /home/xeno/shop/go/src/docsrc/treeseers/sequential.go)
+Full level 2 filespec:  /home/xeno/shop/src/docsrc/treeseers/sequential.go)
 
 ```
 1 package treeseers
@@ -1314,7 +2334,7 @@ Full level 2 filespec:  /home/xeno/shop/go/src/docsrc/treeseers/sequential.go)
 
 ## Go source file sequential_test.go
 
-Full level 2 filespec:  /home/xeno/shop/go/src/docsrc/treeseers/sequential_test.go)
+Full level 2 filespec:  /home/xeno/shop/src/docsrc/treeseers/sequential_test.go)
 
 ```
 1 // Test sequential version of LoadDirObject Method
@@ -1349,15 +2369,15 @@ Full level 2 filespec:  /home/xeno/shop/go/src/docsrc/treeseers/sequential_test.
 ---snip---
 ```
 
-End of level 2 source files in /home/xeno/shop/go/src/docsrc/treeseers
+End of level 2 source files in /home/xeno/shop/src/docsrc/treeseers
 
 
 ## Directory Notes for:
-`/home/xeno/shop/go/src/docsrc/treeseers`
+`/home/xeno/shop/src/docsrc/treeseers`
 
 # TODO notes for treeseer
 
-## Ending for /home/xeno/shop/go/src/docsrc/treeseers, Level 2
+## Ending for /home/xeno/shop/src/docsrc/treeseers, Level 2
 
 # Package Counts:
 - main: 1
@@ -1367,7 +2387,7 @@ End of level 2 source files in /home/xeno/shop/go/src/docsrc/treeseers
 - Total Go Source Files: 13
 
 # Directory Notes for:
-`/home/xeno/shop/go/src/docsrc`
+`/home/xeno/shop/src/docsrc`
 
 # Notes regarding the docsrc *app*:
 
@@ -1418,5 +2438,5 @@ and I will try to do so, especially if concerned with the specifics of this appl
 And no, despite all this, I really don't know Python very well.  I do know Ruby, Bash, C, and now I know Golang, at least
 a little.
 
-# Ending for /home/xeno/shop/go/src/docsrc, Level 1
+# Ending for /home/xeno/shop/src/docsrc, Level 1
 
