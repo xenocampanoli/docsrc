@@ -1,0 +1,6 @@
+	0.		Completely review documentation and come up with a cleaner draft.
+	1.		Re-assess test coverage.  Most especially, make test coverage on a very large tree and add performance stuff.
+	2.		Try TDD/BDD exercise, perhaps later with a purely HTML report3,
+			or Docbook report4, that can have features absent in markdown.
+	3.		Add report3 for devoted HTML only report with all the niceties.
+	4.		Add report4 for Docbook report.

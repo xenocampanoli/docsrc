@@ -1,0 +1,18 @@
+I have two files in a package pkgname:
+
+domytaskbymethodology1.go
+domytaskbymethodology2.go
+
+Both of these files are necessary to the suite of activities,
+because for some activities methodology 1 is more efficient,
+and for some methodology 2 is.  As the intputs and outputs
+are exactly the same, I wish to have the two test suite files
+domytaskbymethodology1_test.go and domytaskbymethodology2_test.go
+be largely empty shells that call methods in a common file
+methodologytests.go.  So here are my questions:
+
+Can I call it methodologytests.go, or will the use of the string
+"test" in the filename like that break something I might not notice.
+More generally, how do I implement a set of common methods like that
+in a way that is available to the tests for the package, but don't
+needlessly get compiled into the production code?
